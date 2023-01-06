@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main  {
+public class readingData  {
     public static void main(String[] args) {
 // testando tipos de variáveis
         int idade = 30;
